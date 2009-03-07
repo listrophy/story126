@@ -1,0 +1,13 @@
+.DS_Store
+config/database.yml
+coverage
+db/*.sqlite3
+doc/api
+doc/controllers.png
+doc/models.png
+log/*.log
+*.tmproj
+spec/spec.opts
+storage
+tmp/**/*
+**/~*
