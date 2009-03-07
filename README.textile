@@ -10,3 +10,11 @@ h2. Check me out
 
 * "Pivotal Tracker":http://www.pivotaltracker.com/projects/10203
 * "Twitter":http://twitter.com/story126
+
+h2. Install
+
+* cp config/database.yml.template config/database.yml
+* edit config/database.yml for your local database settings.
+* cp spec/spec.opts.template spec/spec.opts
+* alter spec/spec.opts to your preferences
+* run rake with no args to see the tests pass.
