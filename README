@@ -1,5 +1,11 @@
-Nothing here yet!
+h1=. Story 126
+p=. You have a story to tell. We have 126 characters to give you.
 
-Check me out:
-Pivotal Tracker: http://www.pivotaltracker.com/projects/10203
-Twitter: http://twitter.com/story126
+h2. About
+
+This project aims to provide a public interface for submitting stories to the story126 account on twitter.com.
+
+h2. Check me out
+
+* "Pivotal Tracker":http://www.pivotaltracker.com/projects/10203
+* "Twitter":http://twitter.com/story126
