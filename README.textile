@@ -4,7 +4,11 @@ p=. You have a story to tell. We have 126 characters to give you.
 
 h2. About
 
-This project aims to provide a public interface for submitting stories to the story126 account on twitter.com.
+As seen in haiku poetry, and the rails framework, embracing constraints can unleash your creativity.  story126 imposes the constraint of writing a story in *exactly* 126 characters.  No more.  No less.
+
+This project aims to provide a public interface for submitting stories to the story126 account on twitter.com that does just this.
+
+Why 126 characters?  This is exactly the maximum number of characters that allows a full 140 character re-tweet in Twitter.
 
 h2. Check me out
 
