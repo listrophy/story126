@@ -8,6 +8,7 @@ This project aims to provide a public interface for submitting stories to the st
 
 h2. Check me out
 
+* "story126 Website":http://story126.com/
 * "Pivotal Tracker":http://www.pivotaltracker.com/projects/10203
 * "Twitter":http://twitter.com/story126
 
