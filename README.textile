@@ -1,25 +1,3 @@
-h1=. Story 126
+h1. Story 126 Has Moved!
 
-p=. You have a story to tell. We have 126 characters to give you.
-
-h2. About
-
-As seen in haiku poetry, and the rails framework, embracing constraints can unleash your creativity.  story126 imposes the constraint of writing a story in *exactly* 126 characters.  No more.  No less.
-
-This project aims to provide a public interface for submitting stories to the story126 account on twitter.com that does just this.
-
-Why 126 characters?  This is exactly the maximum number of characters that allows a full 140 character re-tweet in Twitter.
-
-h2. Check me out
-
-* "story126 Website":http://story126.com/
-* "Pivotal Tracker":http://www.pivotaltracker.com/projects/10203
-* "Twitter":http://twitter.com/story126
-
-h2. Install
-
-* cp config/database.yml.template config/database.yml
-* edit config/database.yml for your local database settings.
-* cp spec/spec.opts.template spec/spec.opts
-* alter spec/spec.opts to your preferences
-* run rake with no args to see the tests pass.
+p=. Try us in our "new home":http://github.com/madrailers/story126!
